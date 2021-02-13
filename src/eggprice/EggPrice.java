@@ -10,7 +10,7 @@ package eggprice; // Here is the package where the program is located.
 import java.util.Scanner;
 
 public class EggPrice { // Here is the our class.
-    public static void main(String[] args) { // Here is the main method, it's where the program executes.
+    public static void main(String[] args) { //  Here is the main method, it's where the program executes.
         
         // Variables declared and intiialized. 
         final double PRICE_DOZEN = 3.25;  
